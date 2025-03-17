@@ -1,0 +1,11 @@
+{
+    "name": "portifolio",
+    "version": "1.0.0",
+    "description": "Meu portfólio pessoal",
+    "main": "index.html",
+    "scripts": {
+      "build": "echo 'Build concluído' && exit 0"
+    },
+    "author": "Maria Eduarda Leal",
+    "license": "MIT"
+  }
